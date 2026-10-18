@@ -1,0 +1,1751 @@
+[
+  {
+    "id": "yatre-demo-7e1c35f1",
+    "trip_title": "Karnataka Heritage & Royal Odyssey",
+    "kannada_title": "ಕರ್ನಾಟಕದ ಭವ್ಯ ಇತಿಹಾಸ ಮತ್ತು ರಾಜಪರಂಪರೆಯ ಯಾತ್ರೆ",
+    "summary": "A curated 2-day itinerary from Bengaluru highlighting Karnataka's cultural treasures, regional delicacies, and practical Kannada phrases.",
+    "starting_city": "Bengaluru",
+    "travel_days": 2,
+    "travelers_count": 2,
+    "budget_tier": "budget",
+    "interests": [
+      "heritage",
+      "culture"
+    ],
+    "travel_pace": "balanced",
+    "transport_preference": "public_transport",
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Day 1: Heritage Awakening",
+        "theme": "Heritage Awakening (ಪ್ರಾಚೀನ ಪರಂಪರೆ ಮತ್ತು ಶಿಲ್ಪಕಲೆ)",
+        "activities": [
+          {
+            "time_of_day": "morning",
+            "place_name": "Mysuru Palace (Amba Vilas)",
+            "kannada_name": "ಮೈಸೂರು ಅರಮನೆ (ಅಂಬಾ ವಿಲಾಸ)",
+            "description": "The historical seat of the Wadiyar dynasty, renowned for its Indo-Saracenic architecture, intricate stained glass, carved silver doors, and Sunday illuminations.",
+            "duration_minutes": 120,
+            "estimated_cost_inr": 100,
+            "cost_status": "verified_reference",
+            "latitude": 12.3052,
+            "longitude": 76.6552,
+            "cultural_note": "Footwear must be deposited outside before entering the palace interior. Photography is permitted in designated halls.",
+            "must_try_food": "Mysore Pak at Guru Sweets, authentic Mysore Masala Dosa at Mylari.",
+            "travel_notes": [
+              "Opening hours: 10:00 AM - 5:30 PM (Illumination Sundays/Holidays 7:00 PM - 7:45 PM).",
+              "Best experience: October to March (Grand Dussehra in Oct)."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-greet-01",
+                "category": "greetings",
+                "kannada": "ನಮಸ್ಕಾರ",
+                "transliteration": "Namaskara",
+                "meaning": "Hello / Greetings",
+                "context": "General respectful greeting appropriate for anyone at any time of day.",
+                "politeness_level": "Formal and respectful",
+                "audio_phonetic": "nuh-muhs-KAH-ruh"
+              },
+              {
+                "id": "phrase-food-01",
+                "category": "dining",
+                "kannada": "ಒಂದು ಮೈಸೂರು ಮಸಾಲ ದೋಸೆ ಕೊಡಿ",
+                "transliteration": "Ondu Mysore Masala Dosa kodi",
+                "meaning": "Please give one Mysore Masala Dosa",
+                "context": "Ordering breakfast at iconic tiffin rooms like Vidyarthi Bhavan or Mylari.",
+                "politeness_level": "Polite request ('kodi' = please give)",
+                "audio_phonetic": "ON-doo mysore masala dosa KO-dee"
+              }
+            ]
+          },
+          {
+            "time_of_day": "afternoon",
+            "place_name": "Hampi Monumental Complex & Virupaksha",
+            "kannada_name": "ಹಂಪಿ ಸ್ಮಾರಕಗಳ ಸಮೂಹ ಮತ್ತು ವಿರೂಪಾಕ್ಷ ದೇವಾಲಯ",
+            "description": "UNESCO World Heritage site representing the capital of the 14th-century Vijayanagara Empire. Marvel at the stone chariot, musical pillars, and Tungabhadra riverbanks.",
+            "duration_minutes": 240,
+            "estimated_cost_inr": 40,
+            "cost_status": "verified_reference",
+            "latitude": 15.335,
+            "longitude": 76.46,
+            "cultural_note": "Active sacred shrine at Virupaksha temple; footwear must be removed inside. Coracle boat rides on Tungabhadra operate subject to water levels.",
+            "must_try_food": "Traditional North Karnataka Jolada Rotti Oota (sorghum flatbread with brinjal curry).",
+            "travel_notes": [
+              "Opening hours: 6:00 AM - 6:00 PM.",
+              "Best experience: November to February (Cooler climate for boulder exploration)."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-dir-01",
+                "category": "directions",
+                "kannada": "ದಯವಿಟ್ಟು ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+                "transliteration": "Dayavittu bus nildana ellide?",
+                "meaning": "Where is the bus station, please?",
+                "context": "Asking pedestrians or traffic police for the nearest KSRTC or BMTC bus stand.",
+                "politeness_level": "Polite request ('Dayavittu' = Please)",
+                "audio_phonetic": "duh-yuh-VIT-too bus nil-DAH-nuh EL-li-day"
+              },
+              {
+                "id": "phrase-food-04",
+                "category": "dining",
+                "kannada": "ಊಟ ತುಂಬಾ ರುಚಿಯಾಗಿದೆ!",
+                "transliteration": "Oota tumba ruchi aagide!",
+                "meaning": "The meal is very delicious!",
+                "context": "Complimenting the chef, cook, or home host on great food.",
+                "politeness_level": "Warm appreciation",
+                "audio_phonetic": "OO-tuh TOOM-buh ROO-chi ah-GID-ay"
+              }
+            ]
+          },
+          {
+            "time_of_day": "evening",
+            "place_name": "Badami Cave Temples & Agastya Lake",
+            "kannada_name": "ಬಾದಾಮಿ ಗುಹಾಂತರ ದೇವಾಲಯಗಳು",
+            "description": "6th-century rock-cut cave temples crafted by the Early Chalukyas into red sandstone cliffs overlooking the ancient Agastya Lake.",
+            "duration_minutes": 120,
+            "estimated_cost_inr": 25,
+            "cost_status": "verified_reference",
+            "latitude": 15.9189,
+            "longitude": 75.6766,
+            "cultural_note": "Cave 1 displays the 18-armed dancing Shiva (Nataraja) exhibiting 81 distinct Bharatanatyam poses.",
+            "must_try_food": "Dharwad Peda & Badami Shengachutney (peanut chutney powder) with Jolada Rotti.",
+            "travel_notes": [
+              "Opening hours: 9:00 AM - 5:30 PM.",
+              "Best experience: October to March."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-auto-01",
+                "category": "transport",
+                "kannada": "ಅರಮನೆಗೆ ಎಷ್ಟು ಆಗುತ್ತೆ?",
+                "transliteration": "Aramanege estu aagatte?",
+                "meaning": "How much will it cost to the Palace?",
+                "context": "Asking the auto or taxi driver the fare before boarding.",
+                "politeness_level": "Standard everyday",
+                "audio_phonetic": "uh-ruh-muh-NAY-gay YESH-too ah-GUH-tay"
+              },
+              {
+                "id": "phrase-auto-02",
+                "category": "transport",
+                "kannada": "ದಯವಿಟ್ಟು ಮೀಟರ್ ಹಾಕಿ",
+                "transliteration": "Dayavittu meter haaki",
+                "meaning": "Please turn on the meter",
+                "context": "Polite request to auto-rickshaw drivers in Bengaluru or Mysuru.",
+                "politeness_level": "Polite firm request",
+                "audio_phonetic": "duh-yuh-VIT-too MEE-ter HAH-kee"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day_number": 2,
+        "title": "Day 2: Scenic Natural Wonders",
+        "theme": "Scenic Natural Wonders (ಮಲೆನಾಡಿನ ಹಸಿರು ಮತ್ತು ನಿಸರ್ಗ)",
+        "activities": [
+          {
+            "time_of_day": "morning",
+            "place_name": "Belur Chennakeshava & Halebidu Hoysaleshwara",
+            "kannada_name": "ಬೇಲೂರು ಚೆನ್ನಕೇಶವ ಮತ್ತು ಹಳೇಬೀಡು ಹೊಯ್ಸಳೇಶ್ವರ ದೇವಾಲಯ",
+            "description": "UNESCO World Heritage Hoysala architectural masterpieces featuring soapstone bracket figures (Madanikas) and unbroken filigree wall friezes.",
+            "duration_minutes": 180,
+            "estimated_cost_inr": 0,
+            "cost_status": "free_entry",
+            "latitude": 13.1623,
+            "longitude": 75.8596,
+            "cultural_note": "Authorized government guides are available at the entrance; their historical narrations bring the 900-year-old soapstone carvings to life.",
+            "must_try_food": "Uppittu (Savory semolina) with filter coffee at local Hassan mess.",
+            "travel_notes": [
+              "Opening hours: 7:30 AM - 6:30 PM.",
+              "Best experience: October to March."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-greet-01",
+                "category": "greetings",
+                "kannada": "ನಮಸ್ಕಾರ",
+                "transliteration": "Namaskara",
+                "meaning": "Hello / Greetings",
+                "context": "General respectful greeting appropriate for anyone at any time of day.",
+                "politeness_level": "Formal and respectful",
+                "audio_phonetic": "nuh-muhs-KAH-ruh"
+              },
+              {
+                "id": "phrase-food-01",
+                "category": "dining",
+                "kannada": "ಒಂದು ಮೈಸೂರು ಮಸಾಲ ದೋಸೆ ಕೊಡಿ",
+                "transliteration": "Ondu Mysore Masala Dosa kodi",
+                "meaning": "Please give one Mysore Masala Dosa",
+                "context": "Ordering breakfast at iconic tiffin rooms like Vidyarthi Bhavan or Mylari.",
+                "politeness_level": "Polite request ('kodi' = please give)",
+                "audio_phonetic": "ON-doo mysore masala dosa KO-dee"
+              }
+            ]
+          },
+          {
+            "time_of_day": "afternoon",
+            "place_name": "Mysuru Palace (Amba Vilas)",
+            "kannada_name": "ಮೈಸೂರು ಅರಮನೆ (ಅಂಬಾ ವಿಲಾಸ)",
+            "description": "The historical seat of the Wadiyar dynasty, renowned for its Indo-Saracenic architecture, intricate stained glass, carved silver doors, and Sunday illuminations.",
+            "duration_minutes": 120,
+            "estimated_cost_inr": 100,
+            "cost_status": "verified_reference",
+            "latitude": 12.3052,
+            "longitude": 76.6552,
+            "cultural_note": "Footwear must be deposited outside before entering the palace interior. Photography is permitted in designated halls.",
+            "must_try_food": "Mysore Pak at Guru Sweets, authentic Mysore Masala Dosa at Mylari.",
+            "travel_notes": [
+              "Opening hours: 10:00 AM - 5:30 PM (Illumination Sundays/Holidays 7:00 PM - 7:45 PM).",
+              "Best experience: October to March (Grand Dussehra in Oct)."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-dir-01",
+                "category": "directions",
+                "kannada": "ದಯವಿಟ್ಟು ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+                "transliteration": "Dayavittu bus nildana ellide?",
+                "meaning": "Where is the bus station, please?",
+                "context": "Asking pedestrians or traffic police for the nearest KSRTC or BMTC bus stand.",
+                "politeness_level": "Polite request ('Dayavittu' = Please)",
+                "audio_phonetic": "duh-yuh-VIT-too bus nil-DAH-nuh EL-li-day"
+              },
+              {
+                "id": "phrase-food-04",
+                "category": "dining",
+                "kannada": "ಊಟ ತುಂಬಾ ರುಚಿಯಾಗಿದೆ!",
+                "transliteration": "Oota tumba ruchi aagide!",
+                "meaning": "The meal is very delicious!",
+                "context": "Complimenting the chef, cook, or home host on great food.",
+                "politeness_level": "Warm appreciation",
+                "audio_phonetic": "OO-tuh TOOM-buh ROO-chi ah-GID-ay"
+              }
+            ]
+          },
+          {
+            "time_of_day": "evening",
+            "place_name": "Hampi Monumental Complex & Virupaksha",
+            "kannada_name": "ಹಂಪಿ ಸ್ಮಾರಕಗಳ ಸಮೂಹ ಮತ್ತು ವಿರೂಪಾಕ್ಷ ದೇವಾಲಯ",
+            "description": "UNESCO World Heritage site representing the capital of the 14th-century Vijayanagara Empire. Marvel at the stone chariot, musical pillars, and Tungabhadra riverbanks.",
+            "duration_minutes": 240,
+            "estimated_cost_inr": 40,
+            "cost_status": "verified_reference",
+            "latitude": 15.335,
+            "longitude": 76.46,
+            "cultural_note": "Active sacred shrine at Virupaksha temple; footwear must be removed inside. Coracle boat rides on Tungabhadra operate subject to water levels.",
+            "must_try_food": "Traditional North Karnataka Jolada Rotti Oota (sorghum flatbread with brinjal curry).",
+            "travel_notes": [
+              "Opening hours: 6:00 AM - 6:00 PM.",
+              "Best experience: November to February (Cooler climate for boulder exploration)."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-auto-01",
+                "category": "transport",
+                "kannada": "ಅರಮನೆಗೆ ಎಷ್ಟು ಆಗುತ್ತೆ?",
+                "transliteration": "Aramanege estu aagatte?",
+                "meaning": "How much will it cost to the Palace?",
+                "context": "Asking the auto or taxi driver the fare before boarding.",
+                "politeness_level": "Standard everyday",
+                "audio_phonetic": "uh-ruh-muh-NAY-gay YESH-too ah-GUH-tay"
+              },
+              {
+                "id": "phrase-auto-02",
+                "category": "transport",
+                "kannada": "ದಯವಿಟ್ಟು ಮೀಟರ್ ಹಾಕಿ",
+                "transliteration": "Dayavittu meter haaki",
+                "meaning": "Please turn on the meter",
+                "context": "Polite request to auto-rickshaw drivers in Bengaluru or Mysuru.",
+                "politeness_level": "Polite firm request",
+                "audio_phonetic": "duh-yuh-VIT-too MEE-ter HAH-kee"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "budget_estimate": {
+      "currency": "INR",
+      "per_person_inr": 3405,
+      "total_group_inr": 6810,
+      "cost_per_day_inr": 3405,
+      "tier": "budget",
+      "breakdown": {
+        "transportation": 1600,
+        "accommodation": 1200,
+        "food": 1800,
+        "attractions": 610,
+        "local_transport": 1000,
+        "miscellaneous": 600
+      },
+      "category_shares": [
+        {
+          "category": "Transportation",
+          "amount_inr": 1600,
+          "percentage": 23.5,
+          "note": "23.5% of estimated trip expenditure"
+        },
+        {
+          "category": "Accommodation",
+          "amount_inr": 1200,
+          "percentage": 17.6,
+          "note": "17.6% of estimated trip expenditure"
+        },
+        {
+          "category": "Food",
+          "amount_inr": 1800,
+          "percentage": 26.4,
+          "note": "26.4% of estimated trip expenditure"
+        },
+        {
+          "category": "Attractions",
+          "amount_inr": 610,
+          "percentage": 9.0,
+          "note": "9.0% of estimated trip expenditure"
+        },
+        {
+          "category": "Local Transport",
+          "amount_inr": 1000,
+          "percentage": 14.7,
+          "note": "14.7% of estimated trip expenditure"
+        },
+        {
+          "category": "Miscellaneous",
+          "amount_inr": 600,
+          "percentage": 8.8,
+          "note": "8.8% of estimated trip expenditure"
+        }
+      ],
+      "assumptions": [
+        "Tier: Budget style travel with 1 room(s) for 2 traveler(s).",
+        "Accommodation estimated for 1 night(s).",
+        "Primary transit based on 'Public Transport' Karnataka regional averages.",
+        "Attraction entry fees reflect current Karnataka Archaeological & Forest Dept published rates.",
+        "All figures are transparent estimates to help financial planning; actual receipts may vary by season."
+      ],
+      "pricing_status": "deterministic_estimate"
+    },
+    "mode": "curated_demonstration",
+    "responsible_tourism_tips": [
+      "Footwear must be deposited outside sacred sanctums and heritage monuments.",
+      "Support local craftspersons at artisan markets and cooperative stalls.",
+      "Dispose waste responsibly and keep Karnataka's ghats and waterfalls pristine.",
+      "Speak politely with local drivers and shopkeepers using the survival Kannada phrases provided."
+    ],
+    "created_at": "2026-10-18T19:43:34.932161"
+  },
+  {
+    "id": "yatre-demo-8bf6eef3",
+    "trip_title": "Karnataka Heritage & Royal Odyssey",
+    "kannada_title": "ಕರ್ನಾಟಕದ ಭವ್ಯ ಇತಿಹಾಸ ಮತ್ತು ರಾಜಪರಂಪರೆಯ ಯಾತ್ರೆ",
+    "summary": "A curated 3-day itinerary from Bengaluru highlighting Karnataka's cultural treasures, regional delicacies, and practical Kannada phrases.",
+    "starting_city": "Bengaluru",
+    "travel_days": 3,
+    "travelers_count": 2,
+    "budget_tier": "moderate",
+    "interests": [
+      "heritage",
+      "nature"
+    ],
+    "travel_pace": "balanced",
+    "transport_preference": "cab_rental",
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Day 1: Heritage Awakening",
+        "theme": "Heritage Awakening (ಪ್ರಾಚೀನ ಪರಂಪರೆ ಮತ್ತು ಶಿಲ್ಪಕಲೆ)",
+        "activities": [
+          {
+            "time_of_day": "morning",
+            "place_name": "Mysuru Palace (Amba Vilas)",
+            "kannada_name": "ಮೈಸೂರು ಅರಮನೆ (ಅಂಬಾ ವಿಲಾಸ)",
+            "description": "The historical seat of the Wadiyar dynasty, renowned for its Indo-Saracenic architecture, intricate stained glass, carved silver doors, and Sunday illuminations.",
+            "duration_minutes": 120,
+            "estimated_cost_inr": 100,
+            "cost_status": "verified_reference",
+            "latitude": 12.3052,
+            "longitude": 76.6552,
+            "cultural_note": "Footwear must be deposited outside before entering the palace interior. Photography is permitted in designated halls.",
+            "must_try_food": "Mysore Pak at Guru Sweets, authentic Mysore Masala Dosa at Mylari.",
+            "travel_notes": [
+              "Opening hours: 10:00 AM - 5:30 PM (Illumination Sundays/Holidays 7:00 PM - 7:45 PM).",
+              "Best experience: October to March (Grand Dussehra in Oct)."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-greet-01",
+                "category": "greetings",
+                "kannada": "ನಮಸ್ಕಾರ",
+                "transliteration": "Namaskara",
+                "meaning": "Hello / Greetings",
+                "context": "General respectful greeting appropriate for anyone at any time of day.",
+                "politeness_level": "Formal and respectful",
+                "audio_phonetic": "nuh-muhs-KAH-ruh"
+              },
+              {
+                "id": "phrase-food-01",
+                "category": "dining",
+                "kannada": "ಒಂದು ಮೈಸೂರು ಮಸಾಲ ದೋಸೆ ಕೊಡಿ",
+                "transliteration": "Ondu Mysore Masala Dosa kodi",
+                "meaning": "Please give one Mysore Masala Dosa",
+                "context": "Ordering breakfast at iconic tiffin rooms like Vidyarthi Bhavan or Mylari.",
+                "politeness_level": "Polite request ('kodi' = please give)",
+                "audio_phonetic": "ON-doo mysore masala dosa KO-dee"
+              }
+            ]
+          },
+          {
+            "time_of_day": "afternoon",
+            "place_name": "Hampi Monumental Complex & Virupaksha",
+            "kannada_name": "ಹಂಪಿ ಸ್ಮಾರಕಗಳ ಸಮೂಹ ಮತ್ತು ವಿರೂಪಾಕ್ಷ ದೇವಾಲಯ",
+            "description": "UNESCO World Heritage site representing the capital of the 14th-century Vijayanagara Empire. Marvel at the stone chariot, musical pillars, and Tungabhadra riverbanks.",
+            "duration_minutes": 240,
+            "estimated_cost_inr": 40,
+            "cost_status": "verified_reference",
+            "latitude": 15.335,
+            "longitude": 76.46,
+            "cultural_note": "Active sacred shrine at Virupaksha temple; footwear must be removed inside. Coracle boat rides on Tungabhadra operate subject to water levels.",
+            "must_try_food": "Traditional North Karnataka Jolada Rotti Oota (sorghum flatbread with brinjal curry).",
+            "travel_notes": [
+              "Opening hours: 6:00 AM - 6:00 PM.",
+              "Best experience: November to February (Cooler climate for boulder exploration)."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-dir-01",
+                "category": "directions",
+                "kannada": "ದಯವಿಟ್ಟು ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+                "transliteration": "Dayavittu bus nildana ellide?",
+                "meaning": "Where is the bus station, please?",
+                "context": "Asking pedestrians or traffic police for the nearest KSRTC or BMTC bus stand.",
+                "politeness_level": "Polite request ('Dayavittu' = Please)",
+                "audio_phonetic": "duh-yuh-VIT-too bus nil-DAH-nuh EL-li-day"
+              },
+              {
+                "id": "phrase-food-04",
+                "category": "dining",
+                "kannada": "ಊಟ ತುಂಬಾ ರುಚಿಯಾಗಿದೆ!",
+                "transliteration": "Oota tumba ruchi aagide!",
+                "meaning": "The meal is very delicious!",
+                "context": "Complimenting the chef, cook, or home host on great food.",
+                "politeness_level": "Warm appreciation",
+                "audio_phonetic": "OO-tuh TOOM-buh ROO-chi ah-GID-ay"
+              }
+            ]
+          },
+          {
+            "time_of_day": "evening",
+            "place_name": "Badami Cave Temples & Agastya Lake",
+            "kannada_name": "ಬಾದಾಮಿ ಗುಹಾಂತರ ದೇವಾಲಯಗಳು",
+            "description": "6th-century rock-cut cave temples crafted by the Early Chalukyas into red sandstone cliffs overlooking the ancient Agastya Lake.",
+            "duration_minutes": 120,
+            "estimated_cost_inr": 25,
+            "cost_status": "verified_reference",
+            "latitude": 15.9189,
+            "longitude": 75.6766,
+            "cultural_note": "Cave 1 displays the 18-armed dancing Shiva (Nataraja) exhibiting 81 distinct Bharatanatyam poses.",
+            "must_try_food": "Dharwad Peda & Badami Shengachutney (peanut chutney powder) with Jolada Rotti.",
+            "travel_notes": [
+              "Opening hours: 9:00 AM - 5:30 PM.",
+              "Best experience: October to March."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-auto-01",
+                "category": "transport",
+                "kannada": "ಅರಮನೆಗೆ ಎಷ್ಟು ಆಗುತ್ತೆ?",
+                "transliteration": "Aramanege estu aagatte?",
+                "meaning": "How much will it cost to the Palace?",
+                "context": "Asking the auto or taxi driver the fare before boarding.",
+                "politeness_level": "Standard everyday",
+                "audio_phonetic": "uh-ruh-muh-NAY-gay YESH-too ah-GUH-tay"
+              },
+              {
+                "id": "phrase-auto-02",
+                "category": "transport",
+                "kannada": "ದಯವಿಟ್ಟು ಮೀಟರ್ ಹಾಕಿ",
+                "transliteration": "Dayavittu meter haaki",
+                "meaning": "Please turn on the meter",
+                "context": "Polite request to auto-rickshaw drivers in Bengaluru or Mysuru.",
+                "politeness_level": "Polite firm request",
+                "audio_phonetic": "duh-yuh-VIT-too MEE-ter HAH-kee"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day_number": 2,
+        "title": "Day 2: Scenic Natural Wonders",
+        "theme": "Scenic Natural Wonders (ಮಲೆನಾಡಿನ ಹಸಿರು ಮತ್ತು ನಿಸರ್ಗ)",
+        "activities": [
+          {
+            "time_of_day": "morning",
+            "place_name": "Raja's Seat & Abbey Falls",
+            "kannada_name": "ರಾಜಾ ಸೀಟ್ ಮತ್ತು ಅಬ್ಬೆ ಜಲಪಾತ (ಮಡಿಕೇರಿ)",
+            "description": "Misty viewpoints where Kodagu kings enjoyed sunsets, coupled with Abbey Falls cascading through coffee and spice plantations.",
+            "duration_minutes": 150,
+            "estimated_cost_inr": 50,
+            "cost_status": "verified_reference",
+            "latitude": 12.4168,
+            "longitude": 75.7382,
+            "cultural_note": "Support local coffee growers by purchasing single-origin Arabica/Robusta coffee directly from cooperative counters.",
+            "must_try_food": "Kadambuttu (steamed rice balls) with traditional Kodava curries and bamboo shoot relish.",
+            "travel_notes": [
+              "Opening hours: 6:00 AM - 7:30 PM (Musical fountain at sunset).",
+              "Best experience: July to March (Lush green post-monsoon)."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-greet-01",
+                "category": "greetings",
+                "kannada": "ನಮಸ್ಕಾರ",
+                "transliteration": "Namaskara",
+                "meaning": "Hello / Greetings",
+                "context": "General respectful greeting appropriate for anyone at any time of day.",
+                "politeness_level": "Formal and respectful",
+                "audio_phonetic": "nuh-muhs-KAH-ruh"
+              },
+              {
+                "id": "phrase-food-01",
+                "category": "dining",
+                "kannada": "ಒಂದು ಮೈಸೂರು ಮಸಾಲ ದೋಸೆ ಕೊಡಿ",
+                "transliteration": "Ondu Mysore Masala Dosa kodi",
+                "meaning": "Please give one Mysore Masala Dosa",
+                "context": "Ordering breakfast at iconic tiffin rooms like Vidyarthi Bhavan or Mylari.",
+                "politeness_level": "Polite request ('kodi' = please give)",
+                "audio_phonetic": "ON-doo mysore masala dosa KO-dee"
+              }
+            ]
+          },
+          {
+            "time_of_day": "afternoon",
+            "place_name": "Jog Falls (Gersoppa)",
+            "kannada_name": "ಜೋಗ ಜಲಪಾತ",
+            "description": "The second-highest plunge waterfall in India, where the Sharavathi river splits into Raja, Roarer, Rocket, and Rani cascades plunging 253 meters.",
+            "duration_minutes": 150,
+            "estimated_cost_inr": 50,
+            "cost_status": "verified_reference",
+            "latitude": 14.2285,
+            "longitude": 74.8125,
+            "cultural_note": "Viewpoints maintained by Karnataka Tourism (KSTDC). Descent to the bottom involves 1,400 steps and may be restricted during high flow.",
+            "must_try_food": "Hot Mirchi Bajji with steamed spiced tea at the viewpoint canteen.",
+            "travel_notes": [
+              "Opening hours: 7:30 AM - 6:00 PM (Laser light show at 7:15 PM).",
+              "Best experience: July to October (Peak monsoon flow)."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-dir-01",
+                "category": "directions",
+                "kannada": "ದಯವಿಟ್ಟು ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+                "transliteration": "Dayavittu bus nildana ellide?",
+                "meaning": "Where is the bus station, please?",
+                "context": "Asking pedestrians or traffic police for the nearest KSRTC or BMTC bus stand.",
+                "politeness_level": "Polite request ('Dayavittu' = Please)",
+                "audio_phonetic": "duh-yuh-VIT-too bus nil-DAH-nuh EL-li-day"
+              },
+              {
+                "id": "phrase-food-04",
+                "category": "dining",
+                "kannada": "ಊಟ ತುಂಬಾ ರುಚಿಯಾಗಿದೆ!",
+                "transliteration": "Oota tumba ruchi aagide!",
+                "meaning": "The meal is very delicious!",
+                "context": "Complimenting the chef, cook, or home host on great food.",
+                "politeness_level": "Warm appreciation",
+                "audio_phonetic": "OO-tuh TOOM-buh ROO-chi ah-GID-ay"
+              }
+            ]
+          },
+          {
+            "time_of_day": "evening",
+            "place_name": "Belur Chennakeshava & Halebidu Hoysaleshwara",
+            "kannada_name": "ಬೇಲೂರು ಚೆನ್ನಕೇಶವ ಮತ್ತು ಹಳೇಬೀಡು ಹೊಯ್ಸಳೇಶ್ವರ ದೇವಾಲಯ",
+            "description": "UNESCO World Heritage Hoysala architectural masterpieces featuring soapstone bracket figures (Madanikas) and unbroken filigree wall friezes.",
+            "duration_minutes": 180,
+            "estimated_cost_inr": 0,
+            "cost_status": "free_entry",
+            "latitude": 13.1623,
+            "longitude": 75.8596,
+            "cultural_note": "Authorized government guides are available at the entrance; their historical narrations bring the 900-year-old soapstone carvings to life.",
+            "must_try_food": "Uppittu (Savory semolina) with filter coffee at local Hassan mess.",
+            "travel_notes": [
+              "Opening hours: 7:30 AM - 6:30 PM.",
+              "Best experience: October to March."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-auto-01",
+                "category": "transport",
+                "kannada": "ಅರಮನೆಗೆ ಎಷ್ಟು ಆಗುತ್ತೆ?",
+                "transliteration": "Aramanege estu aagatte?",
+                "meaning": "How much will it cost to the Palace?",
+                "context": "Asking the auto or taxi driver the fare before boarding.",
+                "politeness_level": "Standard everyday",
+                "audio_phonetic": "uh-ruh-muh-NAY-gay YESH-too ah-GUH-tay"
+              },
+              {
+                "id": "phrase-auto-02",
+                "category": "transport",
+                "kannada": "ದಯವಿಟ್ಟು ಮೀಟರ್ ಹಾಕಿ",
+                "transliteration": "Dayavittu meter haaki",
+                "meaning": "Please turn on the meter",
+                "context": "Polite request to auto-rickshaw drivers in Bengaluru or Mysuru.",
+                "politeness_level": "Polite firm request",
+                "audio_phonetic": "duh-yuh-VIT-too MEE-ter HAH-kee"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day_number": 3,
+        "title": "Day 3: Spiritual & Coastal Horizons",
+        "theme": "Spiritual & Coastal Horizons (ಕರಾವಳಿಯ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಕಡಲತೀರ)",
+        "activities": [
+          {
+            "time_of_day": "morning",
+            "place_name": "Mysuru Palace (Amba Vilas)",
+            "kannada_name": "ಮೈಸೂರು ಅರಮನೆ (ಅಂಬಾ ವಿಲಾಸ)",
+            "description": "The historical seat of the Wadiyar dynasty, renowned for its Indo-Saracenic architecture, intricate stained glass, carved silver doors, and Sunday illuminations.",
+            "duration_minutes": 120,
+            "estimated_cost_inr": 100,
+            "cost_status": "verified_reference",
+            "latitude": 12.3052,
+            "longitude": 76.6552,
+            "cultural_note": "Footwear must be deposited outside before entering the palace interior. Photography is permitted in designated halls.",
+            "must_try_food": "Mysore Pak at Guru Sweets, authentic Mysore Masala Dosa at Mylari.",
+            "travel_notes": [
+              "Opening hours: 10:00 AM - 5:30 PM (Illumination Sundays/Holidays 7:00 PM - 7:45 PM).",
+              "Best experience: October to March (Grand Dussehra in Oct)."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-greet-01",
+                "category": "greetings",
+                "kannada": "ನಮಸ್ಕಾರ",
+                "transliteration": "Namaskara",
+                "meaning": "Hello / Greetings",
+                "context": "General respectful greeting appropriate for anyone at any time of day.",
+                "politeness_level": "Formal and respectful",
+                "audio_phonetic": "nuh-muhs-KAH-ruh"
+              },
+              {
+                "id": "phrase-food-01",
+                "category": "dining",
+                "kannada": "ಒಂದು ಮೈಸೂರು ಮಸಾಲ ದೋಸೆ ಕೊಡಿ",
+                "transliteration": "Ondu Mysore Masala Dosa kodi",
+                "meaning": "Please give one Mysore Masala Dosa",
+                "context": "Ordering breakfast at iconic tiffin rooms like Vidyarthi Bhavan or Mylari.",
+                "politeness_level": "Polite request ('kodi' = please give)",
+                "audio_phonetic": "ON-doo mysore masala dosa KO-dee"
+              }
+            ]
+          },
+          {
+            "time_of_day": "afternoon",
+            "place_name": "Hampi Monumental Complex & Virupaksha",
+            "kannada_name": "ಹಂಪಿ ಸ್ಮಾರಕಗಳ ಸಮೂಹ ಮತ್ತು ವಿರೂಪಾಕ್ಷ ದೇವಾಲಯ",
+            "description": "UNESCO World Heritage site representing the capital of the 14th-century Vijayanagara Empire. Marvel at the stone chariot, musical pillars, and Tungabhadra riverbanks.",
+            "duration_minutes": 240,
+            "estimated_cost_inr": 40,
+            "cost_status": "verified_reference",
+            "latitude": 15.335,
+            "longitude": 76.46,
+            "cultural_note": "Active sacred shrine at Virupaksha temple; footwear must be removed inside. Coracle boat rides on Tungabhadra operate subject to water levels.",
+            "must_try_food": "Traditional North Karnataka Jolada Rotti Oota (sorghum flatbread with brinjal curry).",
+            "travel_notes": [
+              "Opening hours: 6:00 AM - 6:00 PM.",
+              "Best experience: November to February (Cooler climate for boulder exploration)."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-dir-01",
+                "category": "directions",
+                "kannada": "ದಯವಿಟ್ಟು ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+                "transliteration": "Dayavittu bus nildana ellide?",
+                "meaning": "Where is the bus station, please?",
+                "context": "Asking pedestrians or traffic police for the nearest KSRTC or BMTC bus stand.",
+                "politeness_level": "Polite request ('Dayavittu' = Please)",
+                "audio_phonetic": "duh-yuh-VIT-too bus nil-DAH-nuh EL-li-day"
+              },
+              {
+                "id": "phrase-food-04",
+                "category": "dining",
+                "kannada": "ಊಟ ತುಂಬಾ ರುಚಿಯಾಗಿದೆ!",
+                "transliteration": "Oota tumba ruchi aagide!",
+                "meaning": "The meal is very delicious!",
+                "context": "Complimenting the chef, cook, or home host on great food.",
+                "politeness_level": "Warm appreciation",
+                "audio_phonetic": "OO-tuh TOOM-buh ROO-chi ah-GID-ay"
+              }
+            ]
+          },
+          {
+            "time_of_day": "evening",
+            "place_name": "Badami Cave Temples & Agastya Lake",
+            "kannada_name": "ಬಾದಾಮಿ ಗುಹಾಂತರ ದೇವಾಲಯಗಳು",
+            "description": "6th-century rock-cut cave temples crafted by the Early Chalukyas into red sandstone cliffs overlooking the ancient Agastya Lake.",
+            "duration_minutes": 120,
+            "estimated_cost_inr": 25,
+            "cost_status": "verified_reference",
+            "latitude": 15.9189,
+            "longitude": 75.6766,
+            "cultural_note": "Cave 1 displays the 18-armed dancing Shiva (Nataraja) exhibiting 81 distinct Bharatanatyam poses.",
+            "must_try_food": "Dharwad Peda & Badami Shengachutney (peanut chutney powder) with Jolada Rotti.",
+            "travel_notes": [
+              "Opening hours: 9:00 AM - 5:30 PM.",
+              "Best experience: October to March."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-auto-01",
+                "category": "transport",
+                "kannada": "ಅರಮನೆಗೆ ಎಷ್ಟು ಆಗುತ್ತೆ?",
+                "transliteration": "Aramanege estu aagatte?",
+                "meaning": "How much will it cost to the Palace?",
+                "context": "Asking the auto or taxi driver the fare before boarding.",
+                "politeness_level": "Standard everyday",
+                "audio_phonetic": "uh-ruh-muh-NAY-gay YESH-too ah-GUH-tay"
+              },
+              {
+                "id": "phrase-auto-02",
+                "category": "transport",
+                "kannada": "ದಯವಿಟ್ಟು ಮೀಟರ್ ಹಾಕಿ",
+                "transliteration": "Dayavittu meter haaki",
+                "meaning": "Please turn on the meter",
+                "context": "Polite request to auto-rickshaw drivers in Bengaluru or Mysuru.",
+                "politeness_level": "Polite firm request",
+                "audio_phonetic": "duh-yuh-VIT-too MEE-ter HAH-kee"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "budget_estimate": {
+      "currency": "INR",
+      "per_person_inr": 12550,
+      "total_group_inr": 25100,
+      "cost_per_day_inr": 8366,
+      "tier": "moderate",
+      "breakdown": {
+        "transportation": 7200,
+        "accommodation": 5600,
+        "food": 5400,
+        "attractions": 1500,
+        "local_transport": 3600,
+        "miscellaneous": 1800
+      },
+      "category_shares": [
+        {
+          "category": "Transportation",
+          "amount_inr": 7200,
+          "percentage": 28.7,
+          "note": "28.7% of estimated trip expenditure"
+        },
+        {
+          "category": "Accommodation",
+          "amount_inr": 5600,
+          "percentage": 22.3,
+          "note": "22.3% of estimated trip expenditure"
+        },
+        {
+          "category": "Food",
+          "amount_inr": 5400,
+          "percentage": 21.5,
+          "note": "21.5% of estimated trip expenditure"
+        },
+        {
+          "category": "Attractions",
+          "amount_inr": 1500,
+          "percentage": 6.0,
+          "note": "6.0% of estimated trip expenditure"
+        },
+        {
+          "category": "Local Transport",
+          "amount_inr": 3600,
+          "percentage": 14.3,
+          "note": "14.3% of estimated trip expenditure"
+        },
+        {
+          "category": "Miscellaneous",
+          "amount_inr": 1800,
+          "percentage": 7.2,
+          "note": "7.2% of estimated trip expenditure"
+        }
+      ],
+      "assumptions": [
+        "Tier: Moderate style travel with 1 room(s) for 2 traveler(s).",
+        "Accommodation estimated for 2 night(s).",
+        "Primary transit based on 'Cab Rental' Karnataka regional averages.",
+        "Attraction entry fees reflect current Karnataka Archaeological & Forest Dept published rates.",
+        "All figures are transparent estimates to help financial planning; actual receipts may vary by season."
+      ],
+      "pricing_status": "deterministic_estimate"
+    },
+    "mode": "curated_demonstration",
+    "responsible_tourism_tips": [
+      "Footwear must be deposited outside sacred sanctums and heritage monuments.",
+      "Support local craftspersons at artisan markets and cooperative stalls.",
+      "Dispose waste responsibly and keep Karnataka's ghats and waterfalls pristine.",
+      "Speak politely with local drivers and shopkeepers using the survival Kannada phrases provided."
+    ],
+    "created_at": "2026-10-18T19:53:29.538779"
+  },
+  {
+    "id": "yatre-demo-6a2fbce2",
+    "trip_title": "Karnataka Heritage & Royal Odyssey",
+    "kannada_title": "ಕರ್ನಾಟಕದ ಭವ್ಯ ಇತಿಹಾಸ ಮತ್ತು ರಾಜಪರಂಪರೆಯ ಯಾತ್ರೆ",
+    "summary": "A curated 7-day itinerary from Bengaluru highlighting Karnataka's cultural treasures, regional delicacies, and practical Kannada phrases.",
+    "starting_city": "Bengaluru",
+    "travel_days": 7,
+    "travelers_count": 4,
+    "budget_tier": "moderate",
+    "interests": [
+      "heritage",
+      "nature"
+    ],
+    "travel_pace": "balanced",
+    "transport_preference": "cab_rental",
+    "days": [
+      {
+        "day_number": 1,
+        "title": "Day 1: Heritage Awakening",
+        "theme": "Heritage Awakening (ಪ್ರಾಚೀನ ಪರಂಪರೆ ಮತ್ತು ಶಿಲ್ಪಕಲೆ)",
+        "activities": [
+          {
+            "time_of_day": "morning",
+            "place_name": "Mysuru Palace (Amba Vilas)",
+            "kannada_name": "ಮೈಸೂರು ಅರಮನೆ (ಅಂಬಾ ವಿಲಾಸ)",
+            "description": "The historical seat of the Wadiyar dynasty, renowned for its Indo-Saracenic architecture, intricate stained glass, carved silver doors, and Sunday illuminations.",
+            "duration_minutes": 120,
+            "estimated_cost_inr": 100,
+            "cost_status": "verified_reference",
+            "latitude": 12.3052,
+            "longitude": 76.6552,
+            "cultural_note": "Footwear must be deposited outside before entering the palace interior. Photography is permitted in designated halls.",
+            "must_try_food": "Mysore Pak at Guru Sweets, authentic Mysore Masala Dosa at Mylari.",
+            "travel_notes": [
+              "Opening hours: 10:00 AM - 5:30 PM (Illumination Sundays/Holidays 7:00 PM - 7:45 PM).",
+              "Best experience: October to March (Grand Dussehra in Oct)."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-greet-01",
+                "category": "greetings",
+                "kannada": "ನಮಸ್ಕಾರ",
+                "transliteration": "Namaskara",
+                "meaning": "Hello / Greetings",
+                "context": "General respectful greeting appropriate for anyone at any time of day.",
+                "politeness_level": "Formal and respectful",
+                "audio_phonetic": "nuh-muhs-KAH-ruh"
+              },
+              {
+                "id": "phrase-food-01",
+                "category": "dining",
+                "kannada": "ಒಂದು ಮೈಸೂರು ಮಸಾಲ ದೋಸೆ ಕೊಡಿ",
+                "transliteration": "Ondu Mysore Masala Dosa kodi",
+                "meaning": "Please give one Mysore Masala Dosa",
+                "context": "Ordering breakfast at iconic tiffin rooms like Vidyarthi Bhavan or Mylari.",
+                "politeness_level": "Polite request ('kodi' = please give)",
+                "audio_phonetic": "ON-doo mysore masala dosa KO-dee"
+              }
+            ]
+          },
+          {
+            "time_of_day": "afternoon",
+            "place_name": "Hampi Monumental Complex & Virupaksha",
+            "kannada_name": "ಹಂಪಿ ಸ್ಮಾರಕಗಳ ಸಮೂಹ ಮತ್ತು ವಿರೂಪಾಕ್ಷ ದೇವಾಲಯ",
+            "description": "UNESCO World Heritage site representing the capital of the 14th-century Vijayanagara Empire. Marvel at the stone chariot, musical pillars, and Tungabhadra riverbanks.",
+            "duration_minutes": 240,
+            "estimated_cost_inr": 40,
+            "cost_status": "verified_reference",
+            "latitude": 15.335,
+            "longitude": 76.46,
+            "cultural_note": "Active sacred shrine at Virupaksha temple; footwear must be removed inside. Coracle boat rides on Tungabhadra operate subject to water levels.",
+            "must_try_food": "Traditional North Karnataka Jolada Rotti Oota (sorghum flatbread with brinjal curry).",
+            "travel_notes": [
+              "Opening hours: 6:00 AM - 6:00 PM.",
+              "Best experience: November to February (Cooler climate for boulder exploration)."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-dir-01",
+                "category": "directions",
+                "kannada": "ದಯವಿಟ್ಟು ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+                "transliteration": "Dayavittu bus nildana ellide?",
+                "meaning": "Where is the bus station, please?",
+                "context": "Asking pedestrians or traffic police for the nearest KSRTC or BMTC bus stand.",
+                "politeness_level": "Polite request ('Dayavittu' = Please)",
+                "audio_phonetic": "duh-yuh-VIT-too bus nil-DAH-nuh EL-li-day"
+              },
+              {
+                "id": "phrase-food-04",
+                "category": "dining",
+                "kannada": "ಊಟ ತುಂಬಾ ರುಚಿಯಾಗಿದೆ!",
+                "transliteration": "Oota tumba ruchi aagide!",
+                "meaning": "The meal is very delicious!",
+                "context": "Complimenting the chef, cook, or home host on great food.",
+                "politeness_level": "Warm appreciation",
+                "audio_phonetic": "OO-tuh TOOM-buh ROO-chi ah-GID-ay"
+              }
+            ]
+          },
+          {
+            "time_of_day": "evening",
+            "place_name": "Badami Cave Temples & Agastya Lake",
+            "kannada_name": "ಬಾದಾಮಿ ಗುಹಾಂತರ ದೇವಾಲಯಗಳು",
+            "description": "6th-century rock-cut cave temples crafted by the Early Chalukyas into red sandstone cliffs overlooking the ancient Agastya Lake.",
+            "duration_minutes": 120,
+            "estimated_cost_inr": 25,
+            "cost_status": "verified_reference",
+            "latitude": 15.9189,
+            "longitude": 75.6766,
+            "cultural_note": "Cave 1 displays the 18-armed dancing Shiva (Nataraja) exhibiting 81 distinct Bharatanatyam poses.",
+            "must_try_food": "Dharwad Peda & Badami Shengachutney (peanut chutney powder) with Jolada Rotti.",
+            "travel_notes": [
+              "Opening hours: 9:00 AM - 5:30 PM.",
+              "Best experience: October to March."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-auto-01",
+                "category": "transport",
+                "kannada": "ಅರಮನೆಗೆ ಎಷ್ಟು ಆಗುತ್ತೆ?",
+                "transliteration": "Aramanege estu aagatte?",
+                "meaning": "How much will it cost to the Palace?",
+                "context": "Asking the auto or taxi driver the fare before boarding.",
+                "politeness_level": "Standard everyday",
+                "audio_phonetic": "uh-ruh-muh-NAY-gay YESH-too ah-GUH-tay"
+              },
+              {
+                "id": "phrase-auto-02",
+                "category": "transport",
+                "kannada": "ದಯವಿಟ್ಟು ಮೀಟರ್ ಹಾಕಿ",
+                "transliteration": "Dayavittu meter haaki",
+                "meaning": "Please turn on the meter",
+                "context": "Polite request to auto-rickshaw drivers in Bengaluru or Mysuru.",
+                "politeness_level": "Polite firm request",
+                "audio_phonetic": "duh-yuh-VIT-too MEE-ter HAH-kee"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day_number": 2,
+        "title": "Day 2: Scenic Natural Wonders",
+        "theme": "Scenic Natural Wonders (ಮಲೆನಾಡಿನ ಹಸಿರು ಮತ್ತು ನಿಸರ್ಗ)",
+        "activities": [
+          {
+            "time_of_day": "morning",
+            "place_name": "Raja's Seat & Abbey Falls",
+            "kannada_name": "ರಾಜಾ ಸೀಟ್ ಮತ್ತು ಅಬ್ಬೆ ಜಲಪಾತ (ಮಡಿಕೇರಿ)",
+            "description": "Misty viewpoints where Kodagu kings enjoyed sunsets, coupled with Abbey Falls cascading through coffee and spice plantations.",
+            "duration_minutes": 150,
+            "estimated_cost_inr": 50,
+            "cost_status": "verified_reference",
+            "latitude": 12.4168,
+            "longitude": 75.7382,
+            "cultural_note": "Support local coffee growers by purchasing single-origin Arabica/Robusta coffee directly from cooperative counters.",
+            "must_try_food": "Kadambuttu (steamed rice balls) with traditional Kodava curries and bamboo shoot relish.",
+            "travel_notes": [
+              "Opening hours: 6:00 AM - 7:30 PM (Musical fountain at sunset).",
+              "Best experience: July to March (Lush green post-monsoon)."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-greet-01",
+                "category": "greetings",
+                "kannada": "ನಮಸ್ಕಾರ",
+                "transliteration": "Namaskara",
+                "meaning": "Hello / Greetings",
+                "context": "General respectful greeting appropriate for anyone at any time of day.",
+                "politeness_level": "Formal and respectful",
+                "audio_phonetic": "nuh-muhs-KAH-ruh"
+              },
+              {
+                "id": "phrase-food-01",
+                "category": "dining",
+                "kannada": "ಒಂದು ಮೈಸೂರು ಮಸಾಲ ದೋಸೆ ಕೊಡಿ",
+                "transliteration": "Ondu Mysore Masala Dosa kodi",
+                "meaning": "Please give one Mysore Masala Dosa",
+                "context": "Ordering breakfast at iconic tiffin rooms like Vidyarthi Bhavan or Mylari.",
+                "politeness_level": "Polite request ('kodi' = please give)",
+                "audio_phonetic": "ON-doo mysore masala dosa KO-dee"
+              }
+            ]
+          },
+          {
+            "time_of_day": "afternoon",
+            "place_name": "Jog Falls (Gersoppa)",
+            "kannada_name": "ಜೋಗ ಜಲಪಾತ",
+            "description": "The second-highest plunge waterfall in India, where the Sharavathi river splits into Raja, Roarer, Rocket, and Rani cascades plunging 253 meters.",
+            "duration_minutes": 150,
+            "estimated_cost_inr": 50,
+            "cost_status": "verified_reference",
+            "latitude": 14.2285,
+            "longitude": 74.8125,
+            "cultural_note": "Viewpoints maintained by Karnataka Tourism (KSTDC). Descent to the bottom involves 1,400 steps and may be restricted during high flow.",
+            "must_try_food": "Hot Mirchi Bajji with steamed spiced tea at the viewpoint canteen.",
+            "travel_notes": [
+              "Opening hours: 7:30 AM - 6:00 PM (Laser light show at 7:15 PM).",
+              "Best experience: July to October (Peak monsoon flow)."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-dir-01",
+                "category": "directions",
+                "kannada": "ದಯವಿಟ್ಟು ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+                "transliteration": "Dayavittu bus nildana ellide?",
+                "meaning": "Where is the bus station, please?",
+                "context": "Asking pedestrians or traffic police for the nearest KSRTC or BMTC bus stand.",
+                "politeness_level": "Polite request ('Dayavittu' = Please)",
+                "audio_phonetic": "duh-yuh-VIT-too bus nil-DAH-nuh EL-li-day"
+              },
+              {
+                "id": "phrase-food-04",
+                "category": "dining",
+                "kannada": "ಊಟ ತುಂಬಾ ರುಚಿಯಾಗಿದೆ!",
+                "transliteration": "Oota tumba ruchi aagide!",
+                "meaning": "The meal is very delicious!",
+                "context": "Complimenting the chef, cook, or home host on great food.",
+                "politeness_level": "Warm appreciation",
+                "audio_phonetic": "OO-tuh TOOM-buh ROO-chi ah-GID-ay"
+              }
+            ]
+          },
+          {
+            "time_of_day": "evening",
+            "place_name": "Belur Chennakeshava & Halebidu Hoysaleshwara",
+            "kannada_name": "ಬೇಲೂರು ಚೆನ್ನಕೇಶವ ಮತ್ತು ಹಳೇಬೀಡು ಹೊಯ್ಸಳೇಶ್ವರ ದೇವಾಲಯ",
+            "description": "UNESCO World Heritage Hoysala architectural masterpieces featuring soapstone bracket figures (Madanikas) and unbroken filigree wall friezes.",
+            "duration_minutes": 180,
+            "estimated_cost_inr": 0,
+            "cost_status": "free_entry",
+            "latitude": 13.1623,
+            "longitude": 75.8596,
+            "cultural_note": "Authorized government guides are available at the entrance; their historical narrations bring the 900-year-old soapstone carvings to life.",
+            "must_try_food": "Uppittu (Savory semolina) with filter coffee at local Hassan mess.",
+            "travel_notes": [
+              "Opening hours: 7:30 AM - 6:30 PM.",
+              "Best experience: October to March."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-auto-01",
+                "category": "transport",
+                "kannada": "ಅರಮನೆಗೆ ಎಷ್ಟು ಆಗುತ್ತೆ?",
+                "transliteration": "Aramanege estu aagatte?",
+                "meaning": "How much will it cost to the Palace?",
+                "context": "Asking the auto or taxi driver the fare before boarding.",
+                "politeness_level": "Standard everyday",
+                "audio_phonetic": "uh-ruh-muh-NAY-gay YESH-too ah-GUH-tay"
+              },
+              {
+                "id": "phrase-auto-02",
+                "category": "transport",
+                "kannada": "ದಯವಿಟ್ಟು ಮೀಟರ್ ಹಾಕಿ",
+                "transliteration": "Dayavittu meter haaki",
+                "meaning": "Please turn on the meter",
+                "context": "Polite request to auto-rickshaw drivers in Bengaluru or Mysuru.",
+                "politeness_level": "Polite firm request",
+                "audio_phonetic": "duh-yuh-VIT-too MEE-ter HAH-kee"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day_number": 3,
+        "title": "Day 3: Spiritual & Coastal Horizons",
+        "theme": "Spiritual & Coastal Horizons (ಕರಾವಳಿಯ ಸಂಸ್ಕೃತಿ ಮತ್ತು ಕಡಲತೀರ)",
+        "activities": [
+          {
+            "time_of_day": "morning",
+            "place_name": "Chamundeshwari Temple & Nandi Monolith",
+            "kannada_name": "ಚಾಮುಂಡೇಶ್ವರಿ ದೇವಾಲಯ ಮತ್ತು ನಂದಿ ವಿಗ್ರಹ",
+            "description": "Perched atop Chamundi Hill at 1,000 meters elevation, dedicated to Goddess Chamundeshwari, featuring panoramic views of Mysuru city and the 16-foot monolithic Nandi bull.",
+            "duration_minutes": 90,
+            "estimated_cost_inr": 0,
+            "cost_status": "free_entry",
+            "latitude": 12.2743,
+            "longitude": 76.6715,
+            "cultural_note": "Dress conservatively for sanctum darshan. VIP fast-track tickets available for INR 100 during busy festivals.",
+            "must_try_food": "Fresh tender coconut (yele-neeru) stalls along the hill climb.",
+            "travel_notes": [
+              "Opening hours: 7:30 AM - 2:00 PM, 3:30 PM - 6:00 PM, 7:30 PM - 9:00 PM.",
+              "Best experience: Early morning or sunset."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-greet-01",
+                "category": "greetings",
+                "kannada": "ನಮಸ್ಕಾರ",
+                "transliteration": "Namaskara",
+                "meaning": "Hello / Greetings",
+                "context": "General respectful greeting appropriate for anyone at any time of day.",
+                "politeness_level": "Formal and respectful",
+                "audio_phonetic": "nuh-muhs-KAH-ruh"
+              },
+              {
+                "id": "phrase-food-01",
+                "category": "dining",
+                "kannada": "ಒಂದು ಮೈಸೂರು ಮಸಾಲ ದೋಸೆ ಕೊಡಿ",
+                "transliteration": "Ondu Mysore Masala Dosa kodi",
+                "meaning": "Please give one Mysore Masala Dosa",
+                "context": "Ordering breakfast at iconic tiffin rooms like Vidyarthi Bhavan or Mylari.",
+                "politeness_level": "Polite request ('kodi' = please give)",
+                "audio_phonetic": "ON-doo mysore masala dosa KO-dee"
+              }
+            ]
+          },
+          {
+            "time_of_day": "afternoon",
+            "place_name": "Dubare Elephant Camp",
+            "kannada_name": "ದುಬಾರೆ ಆನೆ ಶಿಬಿರ",
+            "description": "Eco-tourism site on the banks of river Kaveri where visitors observe elephant bathing, feeding, and learn about forest conservation.",
+            "duration_minutes": 180,
+            "estimated_cost_inr": 100,
+            "cost_status": "verified_reference",
+            "latitude": 12.3683,
+            "longitude": 75.9048,
+            "cultural_note": "Operated by Jungle Lodges & Karnataka Forest Department. Strict animal welfare protocols apply.",
+            "must_try_food": "Akki Rotti (rice flour flatbread) with coconut chutney.",
+            "travel_notes": [
+              "Opening hours: 9:00 AM - 11:30 AM & 4:30 PM - 5:30 PM (Subject to seasonal river flow).",
+              "Best experience: September to May."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-dir-01",
+                "category": "directions",
+                "kannada": "ದಯವಿಟ್ಟು ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+                "transliteration": "Dayavittu bus nildana ellide?",
+                "meaning": "Where is the bus station, please?",
+                "context": "Asking pedestrians or traffic police for the nearest KSRTC or BMTC bus stand.",
+                "politeness_level": "Polite request ('Dayavittu' = Please)",
+                "audio_phonetic": "duh-yuh-VIT-too bus nil-DAH-nuh EL-li-day"
+              },
+              {
+                "id": "phrase-food-04",
+                "category": "dining",
+                "kannada": "ಊಟ ತುಂಬಾ ರುಚಿಯಾಗಿದೆ!",
+                "transliteration": "Oota tumba ruchi aagide!",
+                "meaning": "The meal is very delicious!",
+                "context": "Complimenting the chef, cook, or home host on great food.",
+                "politeness_level": "Warm appreciation",
+                "audio_phonetic": "OO-tuh TOOM-buh ROO-chi ah-GID-ay"
+              }
+            ]
+          },
+          {
+            "time_of_day": "evening",
+            "place_name": "Om Beach & Mahabaleshwar Temple",
+            "kannada_name": "ಓಂ ಬೀಚ್ ಮತ್ತು ಮಹಾಬಲೇಶ್ವರ ದೇವಾಲಯ",
+            "description": "Iconic beach shaped naturally like the auspicious Hindu symbol 'Om', paired with the 4th-century coastal Atma Linga shrine.",
+            "duration_minutes": 180,
+            "estimated_cost_inr": 0,
+            "cost_status": "free_entry",
+            "latitude": 14.5199,
+            "longitude": 74.3168,
+            "cultural_note": "Traditional dhoti required for male entry into the inner temple sanctum. Beach trek between Kudle, Om, and Half-Moon is a scenic trail.",
+            "must_try_food": "Coastal Mangaluru/Konkan seafood, Neer Dosa, and fresh pineapple juice.",
+            "travel_notes": [
+              "Opening hours: Temple: 6:00 AM - 12:30 PM & 5:00 PM - 8:00 PM; Beach: Open daylight.",
+              "Best experience: October to March."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-auto-01",
+                "category": "transport",
+                "kannada": "ಅರಮನೆಗೆ ಎಷ್ಟು ಆಗುತ್ತೆ?",
+                "transliteration": "Aramanege estu aagatte?",
+                "meaning": "How much will it cost to the Palace?",
+                "context": "Asking the auto or taxi driver the fare before boarding.",
+                "politeness_level": "Standard everyday",
+                "audio_phonetic": "uh-ruh-muh-NAY-gay YESH-too ah-GUH-tay"
+              },
+              {
+                "id": "phrase-auto-02",
+                "category": "transport",
+                "kannada": "ದಯವಿಟ್ಟು ಮೀಟರ್ ಹಾಕಿ",
+                "transliteration": "Dayavittu meter haaki",
+                "meaning": "Please turn on the meter",
+                "context": "Polite request to auto-rickshaw drivers in Bengaluru or Mysuru.",
+                "politeness_level": "Polite firm request",
+                "audio_phonetic": "duh-yuh-VIT-too MEE-ter HAH-kee"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day_number": 4,
+        "title": "Day 4: Artisan Traditions & Markets",
+        "theme": "Artisan Traditions & Markets (ಸ್ಥಳೀಯ ಕಲೆ ಮತ್ತು ಮಾರುಕಟ್ಟೆಗಳು)",
+        "activities": [
+          {
+            "time_of_day": "morning",
+            "place_name": "Udupi Sri Krishna Matha & Malpe Beach",
+            "kannada_name": "ಉಡುಪಿ ಶ್ರೀ ಕೃಷ್ಣ ಮಠ ಮತ್ತು ಮಲ್ಪೆ ಕಡಲತೀರ",
+            "description": "Famed 13th-century temple established by saint Madhvacharya where Lord Krishna is viewed through the Kanakana Kindi window, coupled with Malpe's golden sand beach.",
+            "duration_minutes": 210,
+            "estimated_cost_inr": 0,
+            "cost_status": "free_entry",
+            "latitude": 13.3409,
+            "longitude": 74.7519,
+            "cultural_note": "Complimentary sattvic community meals (Maha Prasada) served daily to all visitors at midday.",
+            "must_try_food": "Udupi Goli Baje, Mangalore Buns, and hot filter coffee at Mitra Samaj.",
+            "travel_notes": [
+              "Opening hours: 5:00 AM - 9:30 PM.",
+              "Best experience: August to March (Krishna Janmashtami celebrated with grand fervor)."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-greet-01",
+                "category": "greetings",
+                "kannada": "ನಮಸ್ಕಾರ",
+                "transliteration": "Namaskara",
+                "meaning": "Hello / Greetings",
+                "context": "General respectful greeting appropriate for anyone at any time of day.",
+                "politeness_level": "Formal and respectful",
+                "audio_phonetic": "nuh-muhs-KAH-ruh"
+              },
+              {
+                "id": "phrase-food-01",
+                "category": "dining",
+                "kannada": "ಒಂದು ಮೈಸೂರು ಮಸಾಲ ದೋಸೆ ಕೊಡಿ",
+                "transliteration": "Ondu Mysore Masala Dosa kodi",
+                "meaning": "Please give one Mysore Masala Dosa",
+                "context": "Ordering breakfast at iconic tiffin rooms like Vidyarthi Bhavan or Mylari.",
+                "politeness_level": "Polite request ('kodi' = please give)",
+                "audio_phonetic": "ON-doo mysore masala dosa KO-dee"
+              }
+            ]
+          },
+          {
+            "time_of_day": "afternoon",
+            "place_name": "Mullayanagiri Peak & Baba Budangiri",
+            "kannada_name": "ಮುಳ್ಳಯ್ಯನಗಿರಿ ಶಿಖರ ಮತ್ತು ಬಾಬಾ ಬುಡನ್‌ಗಿರಿ",
+            "description": "The highest peak in Karnataka at 1,930 meters, offering cloud walks, breezy western ghats ridges, and birthplace of Indian coffee cultivation.",
+            "duration_minutes": 180,
+            "estimated_cost_inr": 0,
+            "cost_status": "free_entry",
+            "latitude": 13.3912,
+            "longitude": 75.7214,
+            "cultural_note": "Baba Budangiri represents shared syncretic Sufi-Hindu heritage. Drive carefully on narrow mountain switchbacks.",
+            "must_try_food": "Estate-fresh filter coffee and Malnad Jackfruit chips.",
+            "travel_notes": [
+              "Opening hours: 6:00 AM - 5:00 PM (Forest check-post entry restrictions apply).",
+              "Best experience: September to February."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-dir-01",
+                "category": "directions",
+                "kannada": "ದಯವಿಟ್ಟು ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+                "transliteration": "Dayavittu bus nildana ellide?",
+                "meaning": "Where is the bus station, please?",
+                "context": "Asking pedestrians or traffic police for the nearest KSRTC or BMTC bus stand.",
+                "politeness_level": "Polite request ('Dayavittu' = Please)",
+                "audio_phonetic": "duh-yuh-VIT-too bus nil-DAH-nuh EL-li-day"
+              },
+              {
+                "id": "phrase-food-04",
+                "category": "dining",
+                "kannada": "ಊಟ ತುಂಬಾ ರುಚಿಯಾಗಿದೆ!",
+                "transliteration": "Oota tumba ruchi aagide!",
+                "meaning": "The meal is very delicious!",
+                "context": "Complimenting the chef, cook, or home host on great food.",
+                "politeness_level": "Warm appreciation",
+                "audio_phonetic": "OO-tuh TOOM-buh ROO-chi ah-GID-ay"
+              }
+            ]
+          },
+          {
+            "time_of_day": "evening",
+            "place_name": "Lalbagh Botanical Garden & Bangalore Palace",
+            "kannada_name": "ಲಾಲ್‌ಬಾಗ್ ಸಸ್ಯತೋಟ ಮತ್ತು ಬೆಂಗಳೂರು ಅರಮನೆ",
+            "description": "Historic 240-acre botanical haven commissioned by Hyder Ali featuring the famous 1889 Glass House, combined with Tudor-style Bangalore Palace.",
+            "duration_minutes": 180,
+            "estimated_cost_inr": 50,
+            "cost_status": "verified_reference",
+            "latitude": 12.9507,
+            "longitude": 77.5848,
+            "cultural_note": "Lalbagh is directly connected via Namma Metro Green Line (Lalbagh station).",
+            "must_try_food": "Benne Masala Dosa and filter coffee at Mavalli Tiffin Room (MTR) near Lalbagh Main Gate.",
+            "travel_notes": [
+              "Opening hours: 6:00 AM - 7:00 PM.",
+              "Best experience: Year-round (Republic Day & Independence Day Flower Shows in Jan & Aug)."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-auto-01",
+                "category": "transport",
+                "kannada": "ಅರಮನೆಗೆ ಎಷ್ಟು ಆಗುತ್ತೆ?",
+                "transliteration": "Aramanege estu aagatte?",
+                "meaning": "How much will it cost to the Palace?",
+                "context": "Asking the auto or taxi driver the fare before boarding.",
+                "politeness_level": "Standard everyday",
+                "audio_phonetic": "uh-ruh-muh-NAY-gay YESH-too ah-GUH-tay"
+              },
+              {
+                "id": "phrase-auto-02",
+                "category": "transport",
+                "kannada": "ದಯವಿಟ್ಟು ಮೀಟರ್ ಹಾಕಿ",
+                "transliteration": "Dayavittu meter haaki",
+                "meaning": "Please turn on the meter",
+                "context": "Polite request to auto-rickshaw drivers in Bengaluru or Mysuru.",
+                "politeness_level": "Polite firm request",
+                "audio_phonetic": "duh-yuh-VIT-too MEE-ter HAH-kee"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day_number": 5,
+        "title": "Day 5: Grand Architectural Wonders",
+        "theme": "Grand Architectural Wonders (ಭವ್ಯ ಕೋಟೆಗಳು ಮತ್ತು ಅರಮನೆಗಳು)",
+        "activities": [
+          {
+            "time_of_day": "morning",
+            "place_name": "Mysuru Palace (Amba Vilas)",
+            "kannada_name": "ಮೈಸೂರು ಅರಮನೆ (ಅಂಬಾ ವಿಲಾಸ)",
+            "description": "The historical seat of the Wadiyar dynasty, renowned for its Indo-Saracenic architecture, intricate stained glass, carved silver doors, and Sunday illuminations.",
+            "duration_minutes": 120,
+            "estimated_cost_inr": 100,
+            "cost_status": "verified_reference",
+            "latitude": 12.3052,
+            "longitude": 76.6552,
+            "cultural_note": "Footwear must be deposited outside before entering the palace interior. Photography is permitted in designated halls.",
+            "must_try_food": "Mysore Pak at Guru Sweets, authentic Mysore Masala Dosa at Mylari.",
+            "travel_notes": [
+              "Opening hours: 10:00 AM - 5:30 PM (Illumination Sundays/Holidays 7:00 PM - 7:45 PM).",
+              "Best experience: October to March (Grand Dussehra in Oct)."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-greet-01",
+                "category": "greetings",
+                "kannada": "ನಮಸ್ಕಾರ",
+                "transliteration": "Namaskara",
+                "meaning": "Hello / Greetings",
+                "context": "General respectful greeting appropriate for anyone at any time of day.",
+                "politeness_level": "Formal and respectful",
+                "audio_phonetic": "nuh-muhs-KAH-ruh"
+              },
+              {
+                "id": "phrase-food-01",
+                "category": "dining",
+                "kannada": "ಒಂದು ಮೈಸೂರು ಮಸಾಲ ದೋಸೆ ಕೊಡಿ",
+                "transliteration": "Ondu Mysore Masala Dosa kodi",
+                "meaning": "Please give one Mysore Masala Dosa",
+                "context": "Ordering breakfast at iconic tiffin rooms like Vidyarthi Bhavan or Mylari.",
+                "politeness_level": "Polite request ('kodi' = please give)",
+                "audio_phonetic": "ON-doo mysore masala dosa KO-dee"
+              }
+            ]
+          },
+          {
+            "time_of_day": "afternoon",
+            "place_name": "Hampi Monumental Complex & Virupaksha",
+            "kannada_name": "ಹಂಪಿ ಸ್ಮಾರಕಗಳ ಸಮೂಹ ಮತ್ತು ವಿರೂಪಾಕ್ಷ ದೇವಾಲಯ",
+            "description": "UNESCO World Heritage site representing the capital of the 14th-century Vijayanagara Empire. Marvel at the stone chariot, musical pillars, and Tungabhadra riverbanks.",
+            "duration_minutes": 240,
+            "estimated_cost_inr": 40,
+            "cost_status": "verified_reference",
+            "latitude": 15.335,
+            "longitude": 76.46,
+            "cultural_note": "Active sacred shrine at Virupaksha temple; footwear must be removed inside. Coracle boat rides on Tungabhadra operate subject to water levels.",
+            "must_try_food": "Traditional North Karnataka Jolada Rotti Oota (sorghum flatbread with brinjal curry).",
+            "travel_notes": [
+              "Opening hours: 6:00 AM - 6:00 PM.",
+              "Best experience: November to February (Cooler climate for boulder exploration)."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-dir-01",
+                "category": "directions",
+                "kannada": "ದಯವಿಟ್ಟು ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+                "transliteration": "Dayavittu bus nildana ellide?",
+                "meaning": "Where is the bus station, please?",
+                "context": "Asking pedestrians or traffic police for the nearest KSRTC or BMTC bus stand.",
+                "politeness_level": "Polite request ('Dayavittu' = Please)",
+                "audio_phonetic": "duh-yuh-VIT-too bus nil-DAH-nuh EL-li-day"
+              },
+              {
+                "id": "phrase-food-04",
+                "category": "dining",
+                "kannada": "ಊಟ ತುಂಬಾ ರುಚಿಯಾಗಿದೆ!",
+                "transliteration": "Oota tumba ruchi aagide!",
+                "meaning": "The meal is very delicious!",
+                "context": "Complimenting the chef, cook, or home host on great food.",
+                "politeness_level": "Warm appreciation",
+                "audio_phonetic": "OO-tuh TOOM-buh ROO-chi ah-GID-ay"
+              }
+            ]
+          },
+          {
+            "time_of_day": "evening",
+            "place_name": "Badami Cave Temples & Agastya Lake",
+            "kannada_name": "ಬಾದಾಮಿ ಗುಹಾಂತರ ದೇವಾಲಯಗಳು",
+            "description": "6th-century rock-cut cave temples crafted by the Early Chalukyas into red sandstone cliffs overlooking the ancient Agastya Lake.",
+            "duration_minutes": 120,
+            "estimated_cost_inr": 25,
+            "cost_status": "verified_reference",
+            "latitude": 15.9189,
+            "longitude": 75.6766,
+            "cultural_note": "Cave 1 displays the 18-armed dancing Shiva (Nataraja) exhibiting 81 distinct Bharatanatyam poses.",
+            "must_try_food": "Dharwad Peda & Badami Shengachutney (peanut chutney powder) with Jolada Rotti.",
+            "travel_notes": [
+              "Opening hours: 9:00 AM - 5:30 PM.",
+              "Best experience: October to March."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-auto-01",
+                "category": "transport",
+                "kannada": "ಅರಮನೆಗೆ ಎಷ್ಟು ಆಗುತ್ತೆ?",
+                "transliteration": "Aramanege estu aagatte?",
+                "meaning": "How much will it cost to the Palace?",
+                "context": "Asking the auto or taxi driver the fare before boarding.",
+                "politeness_level": "Standard everyday",
+                "audio_phonetic": "uh-ruh-muh-NAY-gay YESH-too ah-GUH-tay"
+              },
+              {
+                "id": "phrase-auto-02",
+                "category": "transport",
+                "kannada": "ದಯವಿಟ್ಟು ಮೀಟರ್ ಹಾಕಿ",
+                "transliteration": "Dayavittu meter haaki",
+                "meaning": "Please turn on the meter",
+                "context": "Polite request to auto-rickshaw drivers in Bengaluru or Mysuru.",
+                "politeness_level": "Polite firm request",
+                "audio_phonetic": "duh-yuh-VIT-too MEE-ter HAH-kee"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day_number": 6,
+        "title": "Day 6: Serene Western Ghats",
+        "theme": "Serene Western Ghats (ಪಶ್ಚಿಮ ಘಟ್ಟಗಳ ಸೌಂದರ್ಯ)",
+        "activities": [
+          {
+            "time_of_day": "morning",
+            "place_name": "Raja's Seat & Abbey Falls",
+            "kannada_name": "ರಾಜಾ ಸೀಟ್ ಮತ್ತು ಅಬ್ಬೆ ಜಲಪಾತ (ಮಡಿಕೇರಿ)",
+            "description": "Misty viewpoints where Kodagu kings enjoyed sunsets, coupled with Abbey Falls cascading through coffee and spice plantations.",
+            "duration_minutes": 150,
+            "estimated_cost_inr": 50,
+            "cost_status": "verified_reference",
+            "latitude": 12.4168,
+            "longitude": 75.7382,
+            "cultural_note": "Support local coffee growers by purchasing single-origin Arabica/Robusta coffee directly from cooperative counters.",
+            "must_try_food": "Kadambuttu (steamed rice balls) with traditional Kodava curries and bamboo shoot relish.",
+            "travel_notes": [
+              "Opening hours: 6:00 AM - 7:30 PM (Musical fountain at sunset).",
+              "Best experience: July to March (Lush green post-monsoon)."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-greet-01",
+                "category": "greetings",
+                "kannada": "ನಮಸ್ಕಾರ",
+                "transliteration": "Namaskara",
+                "meaning": "Hello / Greetings",
+                "context": "General respectful greeting appropriate for anyone at any time of day.",
+                "politeness_level": "Formal and respectful",
+                "audio_phonetic": "nuh-muhs-KAH-ruh"
+              },
+              {
+                "id": "phrase-food-01",
+                "category": "dining",
+                "kannada": "ಒಂದು ಮೈಸೂರು ಮಸಾಲ ದೋಸೆ ಕೊಡಿ",
+                "transliteration": "Ondu Mysore Masala Dosa kodi",
+                "meaning": "Please give one Mysore Masala Dosa",
+                "context": "Ordering breakfast at iconic tiffin rooms like Vidyarthi Bhavan or Mylari.",
+                "politeness_level": "Polite request ('kodi' = please give)",
+                "audio_phonetic": "ON-doo mysore masala dosa KO-dee"
+              }
+            ]
+          },
+          {
+            "time_of_day": "afternoon",
+            "place_name": "Jog Falls (Gersoppa)",
+            "kannada_name": "ಜೋಗ ಜಲಪಾತ",
+            "description": "The second-highest plunge waterfall in India, where the Sharavathi river splits into Raja, Roarer, Rocket, and Rani cascades plunging 253 meters.",
+            "duration_minutes": 150,
+            "estimated_cost_inr": 50,
+            "cost_status": "verified_reference",
+            "latitude": 14.2285,
+            "longitude": 74.8125,
+            "cultural_note": "Viewpoints maintained by Karnataka Tourism (KSTDC). Descent to the bottom involves 1,400 steps and may be restricted during high flow.",
+            "must_try_food": "Hot Mirchi Bajji with steamed spiced tea at the viewpoint canteen.",
+            "travel_notes": [
+              "Opening hours: 7:30 AM - 6:00 PM (Laser light show at 7:15 PM).",
+              "Best experience: July to October (Peak monsoon flow)."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-dir-01",
+                "category": "directions",
+                "kannada": "ದಯವಿಟ್ಟು ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+                "transliteration": "Dayavittu bus nildana ellide?",
+                "meaning": "Where is the bus station, please?",
+                "context": "Asking pedestrians or traffic police for the nearest KSRTC or BMTC bus stand.",
+                "politeness_level": "Polite request ('Dayavittu' = Please)",
+                "audio_phonetic": "duh-yuh-VIT-too bus nil-DAH-nuh EL-li-day"
+              },
+              {
+                "id": "phrase-food-04",
+                "category": "dining",
+                "kannada": "ಊಟ ತುಂಬಾ ರುಚಿಯಾಗಿದೆ!",
+                "transliteration": "Oota tumba ruchi aagide!",
+                "meaning": "The meal is very delicious!",
+                "context": "Complimenting the chef, cook, or home host on great food.",
+                "politeness_level": "Warm appreciation",
+                "audio_phonetic": "OO-tuh TOOM-buh ROO-chi ah-GID-ay"
+              }
+            ]
+          },
+          {
+            "time_of_day": "evening",
+            "place_name": "Belur Chennakeshava & Halebidu Hoysaleshwara",
+            "kannada_name": "ಬೇಲೂರು ಚೆನ್ನಕೇಶವ ಮತ್ತು ಹಳೇಬೀಡು ಹೊಯ್ಸಳೇಶ್ವರ ದೇವಾಲಯ",
+            "description": "UNESCO World Heritage Hoysala architectural masterpieces featuring soapstone bracket figures (Madanikas) and unbroken filigree wall friezes.",
+            "duration_minutes": 180,
+            "estimated_cost_inr": 0,
+            "cost_status": "free_entry",
+            "latitude": 13.1623,
+            "longitude": 75.8596,
+            "cultural_note": "Authorized government guides are available at the entrance; their historical narrations bring the 900-year-old soapstone carvings to life.",
+            "must_try_food": "Uppittu (Savory semolina) with filter coffee at local Hassan mess.",
+            "travel_notes": [
+              "Opening hours: 7:30 AM - 6:30 PM.",
+              "Best experience: October to March."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-auto-01",
+                "category": "transport",
+                "kannada": "ಅರಮನೆಗೆ ಎಷ್ಟು ಆಗುತ್ತೆ?",
+                "transliteration": "Aramanege estu aagatte?",
+                "meaning": "How much will it cost to the Palace?",
+                "context": "Asking the auto or taxi driver the fare before boarding.",
+                "politeness_level": "Standard everyday",
+                "audio_phonetic": "uh-ruh-muh-NAY-gay YESH-too ah-GUH-tay"
+              },
+              {
+                "id": "phrase-auto-02",
+                "category": "transport",
+                "kannada": "ದಯವಿಟ್ಟು ಮೀಟರ್ ಹಾಕಿ",
+                "transliteration": "Dayavittu meter haaki",
+                "meaning": "Please turn on the meter",
+                "context": "Polite request to auto-rickshaw drivers in Bengaluru or Mysuru.",
+                "politeness_level": "Polite firm request",
+                "audio_phonetic": "duh-yuh-VIT-too MEE-ter HAH-kee"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "day_number": 7,
+        "title": "Day 7: Flavors of Karunadu",
+        "theme": "Flavors of Karunadu (ಕರ್ನಾಟಕದ ಸಾಂಪ್ರದಾಯಿಕ ರುಚಿಗಳು)",
+        "activities": [
+          {
+            "time_of_day": "morning",
+            "place_name": "Chamundeshwari Temple & Nandi Monolith",
+            "kannada_name": "ಚಾಮುಂಡೇಶ್ವರಿ ದೇವಾಲಯ ಮತ್ತು ನಂದಿ ವಿಗ್ರಹ",
+            "description": "Perched atop Chamundi Hill at 1,000 meters elevation, dedicated to Goddess Chamundeshwari, featuring panoramic views of Mysuru city and the 16-foot monolithic Nandi bull.",
+            "duration_minutes": 90,
+            "estimated_cost_inr": 0,
+            "cost_status": "free_entry",
+            "latitude": 12.2743,
+            "longitude": 76.6715,
+            "cultural_note": "Dress conservatively for sanctum darshan. VIP fast-track tickets available for INR 100 during busy festivals.",
+            "must_try_food": "Fresh tender coconut (yele-neeru) stalls along the hill climb.",
+            "travel_notes": [
+              "Opening hours: 7:30 AM - 2:00 PM, 3:30 PM - 6:00 PM, 7:30 PM - 9:00 PM.",
+              "Best experience: Early morning or sunset."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-greet-01",
+                "category": "greetings",
+                "kannada": "ನಮಸ್ಕಾರ",
+                "transliteration": "Namaskara",
+                "meaning": "Hello / Greetings",
+                "context": "General respectful greeting appropriate for anyone at any time of day.",
+                "politeness_level": "Formal and respectful",
+                "audio_phonetic": "nuh-muhs-KAH-ruh"
+              },
+              {
+                "id": "phrase-food-01",
+                "category": "dining",
+                "kannada": "ಒಂದು ಮೈಸೂರು ಮಸಾಲ ದೋಸೆ ಕೊಡಿ",
+                "transliteration": "Ondu Mysore Masala Dosa kodi",
+                "meaning": "Please give one Mysore Masala Dosa",
+                "context": "Ordering breakfast at iconic tiffin rooms like Vidyarthi Bhavan or Mylari.",
+                "politeness_level": "Polite request ('kodi' = please give)",
+                "audio_phonetic": "ON-doo mysore masala dosa KO-dee"
+              }
+            ]
+          },
+          {
+            "time_of_day": "afternoon",
+            "place_name": "Dubare Elephant Camp",
+            "kannada_name": "ದುಬಾರೆ ಆನೆ ಶಿಬಿರ",
+            "description": "Eco-tourism site on the banks of river Kaveri where visitors observe elephant bathing, feeding, and learn about forest conservation.",
+            "duration_minutes": 180,
+            "estimated_cost_inr": 100,
+            "cost_status": "verified_reference",
+            "latitude": 12.3683,
+            "longitude": 75.9048,
+            "cultural_note": "Operated by Jungle Lodges & Karnataka Forest Department. Strict animal welfare protocols apply.",
+            "must_try_food": "Akki Rotti (rice flour flatbread) with coconut chutney.",
+            "travel_notes": [
+              "Opening hours: 9:00 AM - 11:30 AM & 4:30 PM - 5:30 PM (Subject to seasonal river flow).",
+              "Best experience: September to May."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-dir-01",
+                "category": "directions",
+                "kannada": "ದಯವಿಟ್ಟು ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+                "transliteration": "Dayavittu bus nildana ellide?",
+                "meaning": "Where is the bus station, please?",
+                "context": "Asking pedestrians or traffic police for the nearest KSRTC or BMTC bus stand.",
+                "politeness_level": "Polite request ('Dayavittu' = Please)",
+                "audio_phonetic": "duh-yuh-VIT-too bus nil-DAH-nuh EL-li-day"
+              },
+              {
+                "id": "phrase-food-04",
+                "category": "dining",
+                "kannada": "ಊಟ ತುಂಬಾ ರುಚಿಯಾಗಿದೆ!",
+                "transliteration": "Oota tumba ruchi aagide!",
+                "meaning": "The meal is very delicious!",
+                "context": "Complimenting the chef, cook, or home host on great food.",
+                "politeness_level": "Warm appreciation",
+                "audio_phonetic": "OO-tuh TOOM-buh ROO-chi ah-GID-ay"
+              }
+            ]
+          },
+          {
+            "time_of_day": "evening",
+            "place_name": "Om Beach & Mahabaleshwar Temple",
+            "kannada_name": "ಓಂ ಬೀಚ್ ಮತ್ತು ಮಹಾಬಲೇಶ್ವರ ದೇವಾಲಯ",
+            "description": "Iconic beach shaped naturally like the auspicious Hindu symbol 'Om', paired with the 4th-century coastal Atma Linga shrine.",
+            "duration_minutes": 180,
+            "estimated_cost_inr": 0,
+            "cost_status": "free_entry",
+            "latitude": 14.5199,
+            "longitude": 74.3168,
+            "cultural_note": "Traditional dhoti required for male entry into the inner temple sanctum. Beach trek between Kudle, Om, and Half-Moon is a scenic trail.",
+            "must_try_food": "Coastal Mangaluru/Konkan seafood, Neer Dosa, and fresh pineapple juice.",
+            "travel_notes": [
+              "Opening hours: Temple: 6:00 AM - 12:30 PM & 5:00 PM - 8:00 PM; Beach: Open daylight.",
+              "Best experience: October to March."
+            ],
+            "kannada_phrases": [
+              {
+                "id": "phrase-auto-01",
+                "category": "transport",
+                "kannada": "ಅರಮನೆಗೆ ಎಷ್ಟು ಆಗುತ್ತೆ?",
+                "transliteration": "Aramanege estu aagatte?",
+                "meaning": "How much will it cost to the Palace?",
+                "context": "Asking the auto or taxi driver the fare before boarding.",
+                "politeness_level": "Standard everyday",
+                "audio_phonetic": "uh-ruh-muh-NAY-gay YESH-too ah-GUH-tay"
+              },
+              {
+                "id": "phrase-auto-02",
+                "category": "transport",
+                "kannada": "ದಯವಿಟ್ಟು ಮೀಟರ್ ಹಾಕಿ",
+                "transliteration": "Dayavittu meter haaki",
+                "meaning": "Please turn on the meter",
+                "context": "Polite request to auto-rickshaw drivers in Bengaluru or Mysuru.",
+                "politeness_level": "Polite firm request",
+                "audio_phonetic": "duh-yuh-VIT-too MEE-ter HAH-kee"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "budget_estimate": {
+      "currency": "INR",
+      "per_person_inr": 26950,
+      "total_group_inr": 107800,
+      "cost_per_day_inr": 15400,
+      "tier": "moderate",
+      "breakdown": {
+        "transportation": 16800,
+        "accommodation": 33600,
+        "food": 25200,
+        "attractions": 7000,
+        "local_transport": 16800,
+        "miscellaneous": 8400
+      },
+      "category_shares": [
+        {
+          "category": "Transportation",
+          "amount_inr": 16800,
+          "percentage": 15.6,
+          "note": "15.6% of estimated trip expenditure"
+        },
+        {
+          "category": "Accommodation",
+          "amount_inr": 33600,
+          "percentage": 31.2,
+          "note": "31.2% of estimated trip expenditure"
+        },
+        {
+          "category": "Food",
+          "amount_inr": 25200,
+          "percentage": 23.4,
+          "note": "23.4% of estimated trip expenditure"
+        },
+        {
+          "category": "Attractions",
+          "amount_inr": 7000,
+          "percentage": 6.5,
+          "note": "6.5% of estimated trip expenditure"
+        },
+        {
+          "category": "Local Transport",
+          "amount_inr": 16800,
+          "percentage": 15.6,
+          "note": "15.6% of estimated trip expenditure"
+        },
+        {
+          "category": "Miscellaneous",
+          "amount_inr": 8400,
+          "percentage": 7.8,
+          "note": "7.8% of estimated trip expenditure"
+        }
+      ],
+      "assumptions": [
+        "Tier: Moderate style travel with 2 room(s) for 4 traveler(s).",
+        "Accommodation estimated for 6 night(s).",
+        "Primary transit based on 'Cab Rental' Karnataka regional averages.",
+        "Attraction entry fees reflect current Karnataka Archaeological & Forest Dept published rates.",
+        "All figures are transparent estimates to help financial planning; actual receipts may vary by season."
+      ],
+      "pricing_status": "deterministic_estimate"
+    },
+    "mode": "curated_demonstration",
+    "responsible_tourism_tips": [
+      "Footwear must be deposited outside sacred sanctums and heritage monuments.",
+      "Support local craftspersons at artisan markets and cooperative stalls.",
+      "Dispose waste responsibly and keep Karnataka's ghats and waterfalls pristine.",
+      "Speak politely with local drivers and shopkeepers using the survival Kannada phrases provided."
+    ],
+    "created_at": "2026-10-18T20:13:14.105571"
+  }
+]

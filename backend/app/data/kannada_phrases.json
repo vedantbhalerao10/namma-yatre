@@ -1,0 +1,232 @@
+[
+  {
+    "id": "phrase-greet-01",
+    "category": "greetings",
+    "kannada": "ನಮಸ್ಕಾರ",
+    "transliteration": "Namaskara",
+    "meaning": "Hello / Greetings",
+    "context": "General respectful greeting appropriate for anyone at any time of day.",
+    "politeness_level": "Formal and respectful",
+    "audio_phonetic": "nuh-muhs-KAH-ruh"
+  },
+  {
+    "id": "phrase-greet-02",
+    "category": "greetings",
+    "kannada": "ಧನ್ಯವಾದಗಳು",
+    "transliteration": "Dhanyavadagalu",
+    "meaning": "Thank you very much",
+    "context": "Used to express gratitude to guides, shopkeepers, or helpful locals.",
+    "politeness_level": "Formal and polite",
+    "audio_phonetic": "dhun-yuh-VAH-duh-guh-loo"
+  },
+  {
+    "id": "phrase-greet-03",
+    "category": "greetings",
+    "kannada": "ಹೇಗೆ ಇದ್ದೀರಾ?",
+    "transliteration": "Hege iddira?",
+    "meaning": "How are you?",
+    "context": "Polite inquiry when meeting locals or host family.",
+    "politeness_level": "Polite (plural/respectful)",
+    "audio_phonetic": "HAY-gay id-DEE-rah"
+  },
+  {
+    "id": "phrase-greet-04",
+    "category": "greetings",
+    "kannada": "ಚೆನ್ನಾಗಿದ್ದೇನೆ, ಧನ್ಯವಾದ!",
+    "transliteration": "Chennagiddene, dhanyavada!",
+    "meaning": "I am doing well, thank you!",
+    "context": "Replying to someone asking about your well-being.",
+    "politeness_level": "Polite",
+    "audio_phonetic": "chen-nah-GID-day-nay, dhun-yuh-VAH-duh"
+  },
+  {
+    "id": "phrase-dir-01",
+    "category": "directions",
+    "kannada": "ದಯವಿಟ್ಟು ಬಸ್ ನಿಲ್ದಾಣ ಎಲ್ಲಿದೆ?",
+    "transliteration": "Dayavittu bus nildana ellide?",
+    "meaning": "Where is the bus station, please?",
+    "context": "Asking pedestrians or traffic police for the nearest KSRTC or BMTC bus stand.",
+    "politeness_level": "Polite request ('Dayavittu' = Please)",
+    "audio_phonetic": "duh-yuh-VIT-too bus nil-DAH-nuh EL-li-day"
+  },
+  {
+    "id": "phrase-dir-02",
+    "category": "directions",
+    "kannada": "ರೈಲ್ವೆ ನಿಲ್ದಾಣಕ್ಕೆ ಹೇಗೆ ಹೋಗುವುದು?",
+    "transliteration": "Railway stationge hege hoguvudu?",
+    "meaning": "How do I get to the railway station?",
+    "context": "Asking for navigation towards the train terminal.",
+    "politeness_level": "Neutral polite",
+    "audio_phonetic": "railway station-GAY HAY-gay ho-GOO-voo-doo"
+  },
+  {
+    "id": "phrase-dir-03",
+    "category": "directions",
+    "kannada": "ಬಲಗಡೆ ತಿರುಗಿ / Right thagolli",
+    "transliteration": "Balagade thirugi / Right thagolli",
+    "meaning": "Turn right / Take right",
+    "context": "Direction cues for navigating streets.",
+    "politeness_level": "Standard",
+    "audio_phonetic": "buh-luh-guh-DAY thi-ROO-gi"
+  },
+  {
+    "id": "phrase-dir-04",
+    "category": "directions",
+    "kannada": "ಎಡಗಡೆ ತಿರುಗಿ / Left thagolli",
+    "transliteration": "Edagade thirugi / Left thagolli",
+    "meaning": "Turn left / Take left",
+    "context": "Direction cues for navigating streets.",
+    "politeness_level": "Standard",
+    "audio_phonetic": "ye-duh-guh-DAY thi-ROO-gi"
+  },
+  {
+    "id": "phrase-dir-05",
+    "category": "directions",
+    "kannada": "ಹತ್ತಿರ ಇದೆಯಾ ಅಥವಾ ದೂರ ಇದೆಯಾ?",
+    "transliteration": "Hathira ideya athava doora ideya?",
+    "meaning": "Is it nearby or far away?",
+    "context": "Deciding whether to walk or hire an auto-rickshaw.",
+    "politeness_level": "Conversational",
+    "audio_phonetic": "huh-thi-RUH i-DAY-yah uh-thuh-VAH DOO-ruh i-DAY-yah"
+  },
+  {
+    "id": "phrase-auto-01",
+    "category": "transport",
+    "kannada": "ಅರಮನೆಗೆ ಎಷ್ಟು ಆಗುತ್ತೆ?",
+    "transliteration": "Aramanege estu aagatte?",
+    "meaning": "How much will it cost to the Palace?",
+    "context": "Asking the auto or taxi driver the fare before boarding.",
+    "politeness_level": "Standard everyday",
+    "audio_phonetic": "uh-ruh-muh-NAY-gay YESH-too ah-GUH-tay"
+  },
+  {
+    "id": "phrase-auto-02",
+    "category": "transport",
+    "kannada": "ದಯವಿಟ್ಟು ಮೀಟರ್ ಹಾಕಿ",
+    "transliteration": "Dayavittu meter haaki",
+    "meaning": "Please turn on the meter",
+    "context": "Polite request to auto-rickshaw drivers in Bengaluru or Mysuru.",
+    "politeness_level": "Polite firm request",
+    "audio_phonetic": "duh-yuh-VIT-too MEE-ter HAH-kee"
+  },
+  {
+    "id": "phrase-auto-03",
+    "category": "transport",
+    "kannada": "ಇಲ್ಲಿ ನಿಲ್ಲಿಸಿ, ಧನ್ಯವಾದ",
+    "transliteration": "Illi nillisi, dhanyavada",
+    "meaning": "Please stop here, thank you",
+    "context": "Informing the driver when your destination arrives.",
+    "politeness_level": "Polite",
+    "audio_phonetic": "IL-li nil-li-SEE, dhun-yuh-VAH-duh"
+  },
+  {
+    "id": "phrase-food-01",
+    "category": "dining",
+    "kannada": "ಒಂದು ಮೈಸೂರು ಮಸಾಲ ದೋಸೆ ಕೊಡಿ",
+    "transliteration": "Ondu Mysore Masala Dosa kodi",
+    "meaning": "Please give one Mysore Masala Dosa",
+    "context": "Ordering breakfast at iconic tiffin rooms like Vidyarthi Bhavan or Mylari.",
+    "politeness_level": "Polite request ('kodi' = please give)",
+    "audio_phonetic": "ON-doo mysore masala dosa KO-dee"
+  },
+  {
+    "id": "phrase-food-02",
+    "category": "dining",
+    "kannada": "ಖಾರ ಸ್ವಲ್ಪ ಕಮ್ಮಿ ಮಾಡಿ",
+    "transliteration": "Kaara swalpa kammi maadi",
+    "meaning": "Please make it less spicy",
+    "context": "Ordering food with mild spice level for sensitive palates or children.",
+    "politeness_level": "Polite request",
+    "audio_phonetic": "KAH-ruh SWUHL-puh KUM-mee MAH-dee"
+  },
+  {
+    "id": "phrase-food-03",
+    "category": "dining",
+    "kannada": "ಕುಡಿಯುವ ನೀರು ಕೊಡಿ",
+    "transliteration": "Kudiyuva neeru kodi",
+    "meaning": "Please provide drinking water",
+    "context": "Asking the restaurant server for clean drinking water.",
+    "politeness_level": "Polite request",
+    "audio_phonetic": "koo-di-YOO-vuh NEE-roo KO-dee"
+  },
+  {
+    "id": "phrase-food-04",
+    "category": "dining",
+    "kannada": "ಊಟ ತುಂಬಾ ರುಚಿಯಾಗಿದೆ!",
+    "transliteration": "Oota tumba ruchi aagide!",
+    "meaning": "The meal is very delicious!",
+    "context": "Complimenting the chef, cook, or home host on great food.",
+    "politeness_level": "Warm appreciation",
+    "audio_phonetic": "OO-tuh TOOM-buh ROO-chi ah-GID-ay"
+  },
+  {
+    "id": "phrase-food-05",
+    "category": "dining",
+    "kannada": "ದಯವಿಟ್ಟು ಬಿಲ್ ಕೊಡಿ",
+    "transliteration": "Dayavittu bill kodi",
+    "meaning": "Please bring the bill",
+    "context": "Requesting the final payment check at a restaurant.",
+    "politeness_level": "Polite request",
+    "audio_phonetic": "duh-yuh-VIT-too bill KO-dee"
+  },
+  {
+    "id": "phrase-shop-01",
+    "category": "shopping",
+    "kannada": "ಇದು ಎಷ್ಟು ಬೆಲೆ?",
+    "transliteration": "Idu estu bele?",
+    "meaning": "How much does this cost?",
+    "context": "Inquiring about prices of handicrafts, spices, silk, or souvenirs.",
+    "politeness_level": "Direct standard",
+    "audio_phonetic": "I-doo YESH-too BAY-lay"
+  },
+  {
+    "id": "phrase-shop-02",
+    "category": "shopping",
+    "kannada": "ಸ್ವಲ್ಪ ಕಮ್ಮಿ ಮಾಡ್ತೀರಾ?",
+    "transliteration": "Swalpa kammi maadtira?",
+    "meaning": "Could you please reduce the price a little?",
+    "context": "Gentle bargaining at local artisan markets (Channapatna toys, Devaraja Market).",
+    "politeness_level": "Polite persuasion",
+    "audio_phonetic": "SWUHL-puh KUM-mee maahd-TEE-rah"
+  },
+  {
+    "id": "phrase-shop-03",
+    "category": "shopping",
+    "kannada": "ಯುಪಿಐ / ಗೂಗಲ್ ಪೇ ಇದೆಯಾ?",
+    "transliteration": "UPI / Google Pay ideya?",
+    "meaning": "Do you accept UPI / Google Pay?",
+    "context": "Asking if digital QR payments are accepted.",
+    "politeness_level": "Everyday standard",
+    "audio_phonetic": "UPI / Google Pay i-DAY-yah"
+  },
+  {
+    "id": "phrase-help-01",
+    "category": "emergency",
+    "kannada": "ದಯವಿಟ್ಟು ನನಗೆ ಸ್ವಲ್ಪ ಸಹಾಯ ಮಾಡಿ",
+    "transliteration": "Dayavittu nanage swalpa sahaya maadi",
+    "meaning": "Please help me a little",
+    "context": "Seeking assistance from passersby or authorities when in need.",
+    "politeness_level": "Urgent polite",
+    "audio_phonetic": "duh-yuh-VIT-too nuh-nuh-GAY SWUHL-puh suh-HAH-yuh MAH-dee"
+  },
+  {
+    "id": "phrase-help-02",
+    "category": "emergency",
+    "kannada": "ಆಸ್ಪತ್ರೆ ಎಲ್ಲಿದೆ?",
+    "transliteration": "Aaspathre ellide?",
+    "meaning": "Where is the nearest hospital?",
+    "context": "Emergency medical directions.",
+    "politeness_level": "Clear urgent",
+    "audio_phonetic": "ahs-PUH-thray EL-li-day"
+  },
+  {
+    "id": "phrase-help-03",
+    "category": "emergency",
+    "kannada": "ನನಗೆ ಕನ್ನಡ ತುಂಬಾ ಗೊತ್ತಿಲ್ಲ, ಇಂಗ್ಲಿಷ್ ಬರುತ್ತಾ?",
+    "transliteration": "Nanage Kannada tumba gothilla, English barutha?",
+    "meaning": "I don't know much Kannada, do you speak English?",
+    "context": "Honest friendly icebreaker when starting a conversation.",
+    "politeness_level": "Humble and friendly",
+    "audio_phonetic": "nuh-nuh-GAY kuhn-nuh-DUH TOOM-buh go-THIL-luh, English buh-ROO-thah"
+  }
+]
